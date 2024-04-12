@@ -9,7 +9,7 @@
 }
 
 main {
-  font-family: "Lato";
+  font-family: Roboto;
 }
 
 main p {
@@ -301,7 +301,7 @@ form .estiloTextArea {
 footer {
   background: rgb(112, 112, 234);
   width: 100%;
-  font-family: "Lato";
+  font-family: Roboto;
   padding: 1%;
 }
 footer .footer__contenedor {
